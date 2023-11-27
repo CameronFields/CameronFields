@@ -1,6 +1,7 @@
 My GitHub page houses both school projects/labs and persnal projects
 School Projects:
 - [[School-Work](https://github.com/CameronFields/School-Work)]
+  
 Personal Projects: 
 - [[Personal-Projects](https://github.com/CameronFields/PracticeProblems)]
 
