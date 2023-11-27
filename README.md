@@ -1,6 +1,6 @@
 My GitHub page houses both school projects and persnal projects
 School Projects:
-- [a link] https://github.com/CameronFields/School-Work
+- [[a link](https://github.com/CameronFields/School-Work)] School-Work
 - 
 📫 How to reach me cameron.edward.fields@gmail.com or 412-228-2830
 
